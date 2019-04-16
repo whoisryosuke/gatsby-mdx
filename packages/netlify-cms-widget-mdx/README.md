@@ -7,7 +7,7 @@
 
 Experimental MDX file support in Netlify CMS.
 
-![preview](docs/preview.png)
+![preview](https://raw.githubusercontent.com/buz-zard/gatsby-mdx/master/packages/netlify-cms-widget-mdx/docs/preview.png)
 
 ## Install
 
